@@ -1,0 +1,6 @@
+{
+  "name": "Classy Interior",
+  "description": "Explore Classy Interior in Kalyanpur, Kanpur, Uttar Pradesh. Discover interior design inspiration, view customer reviews, and contact the business to discuss your space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
